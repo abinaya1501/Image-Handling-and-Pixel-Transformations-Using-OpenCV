@@ -1,10 +1,9 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
+## Name: ABINAYA A
 
-**Name:** ABINAYA A
+## Register Number: 212224230004
 
-**Register Number:** 212224230004
-
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+## Experiment: Image Handling and Pixel Transformations Using OpenCV
 
 ---
 
